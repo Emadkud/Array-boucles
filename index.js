@@ -80,3 +80,84 @@ for (let i = sentence.length -1 ;   i >= 0  ; i--) {
 
 
 /*7 */
+
+
+
+// let end = 100
+
+// for ( let i = 0 ; i <=100; i++) {
+//      console.log(i)
+//      if (i % 3 === 0) {
+//          console.log("fizz")
+        
+//      }
+
+//     else  if (i % 5 === 0 ) {
+//         console.log("buzz")
+
+//     }
+//      else if (i % 3 === 0 && i % 5 === 0 ) {
+//         console.log ("fizzbuzz")
+//     }
+
+//     else if (i % 7 === 0 ) {
+//         console.log("")
+//     }
+
+//    else{
+//         console.log(i)
+//   }
+
+//   } 
+    
+
+
+/*8*/
+
+// let total = 0
+// let limit = 10
+
+
+// while ( 0 <= limit ) {
+//     total = total + limit
+//     limit = limit -1
+
+//     console.log(total)
+
+// }
+
+
+
+
+
+//  const friends = ["Danh","walid1","walid2","Edaly"]
+
+//  const min = 0
+
+//  const max = friends.length - 1
+  
+//  const random = Math.floor(Math.random() * max ) + min
+
+//  console.log(friends[random])
+
+
+/*10*/
+
+// const table = []
+
+// for (let i = 0 ; i < 20 ; i++ ) {
+//    table[i] = Math.floor(Math.random() * 100)  + 0
+   
+// }
+// console.log(table)
+
+// let max = 0
+// for(let i = 0 ; i <table.length ; i++ ) {
+   
+//     if ( max < table[i]) {
+//         max = table[i]
+//     }
+
+// }
+
+// console.log(max)
