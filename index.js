@@ -72,7 +72,7 @@ console.log(object)
 
 const numbers = ["3","10","8","12","6"]
 
-numbers.reverse(numbers)
+numbers.reverse()
 
 console.log(numbers)
 
