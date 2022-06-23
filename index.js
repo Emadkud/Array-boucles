@@ -48,7 +48,7 @@ object.unshift("chair")
 
 console.log(object)
 
-object.pop("lamp")
+object.pop()
 
 console.log(object)
 
@@ -58,7 +58,7 @@ object.push("laptop")
 console.log(object)
 
 
-object.shift("chair")
+object.shift()
 
 console.log(object)
 
